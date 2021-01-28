@@ -1,5 +1,5 @@
 #Programmer: Miguel Echeverria
-#Date: 1/22/2021
+#Date: 1/26/2021
 #Purpose: Determines if 10 user inputted numbers are positive, negative, or neither.
 #Input: An integer
 #Output: Postive, negative, or neither
